@@ -50,6 +50,7 @@ body {
     background-image: -moz-linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45));
     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45));
     background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/img/hair-hero.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/eclipz-salon-spa/img/hair-hero.jpeg);
     height: calc(100vh - 50px);
     background-size: cover;
     background-position: center;
