@@ -231,7 +231,7 @@ body {
 }
 }
 @media (min-width: 1200px) {
-  .container-fluid#projects {
+  .container-fluid#hours {
     width: 970px;
     box-shadow: 0 0 5px 0 #000000;
   }
